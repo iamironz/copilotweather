@@ -1,0 +1,9 @@
+Gradle dependencies
+Gradle plugins
+Manifest network permissions
+Network data model
+Domain data model
+Mapper from network to domain
+Network API (openweather key: b0b32241ee64c7fc8c77129c490fbfb1)
+DI
+Activity injection + composable UI
